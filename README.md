@@ -1,2 +1,8 @@
 # Majestic-bridge-solution
-A lightweight Python library that bridges messy data into clean DataFrames.
+# 🚀 Majestic Bridge Solution
+
+Bridge messy data into clean DataFrames — with a single function call.
+
+## Install
+```bash
+pip install majestic-bridge-solutions
